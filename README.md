@@ -42,6 +42,3 @@ It provides a seamless platform to post jobs, apply for opportunities, and manag
 - **Multer** (file uploads)  
 
 ---
-
-## 📂 Project Structure
-
